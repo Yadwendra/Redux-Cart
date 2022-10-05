@@ -4,7 +4,7 @@ function Home(props) {
   console.log("home", props);
   return (
     <div>
-      <h1 style={{textAlign:"center"}}>Home Component</h1>
+      <h1 style={{textAlign:"center"}}>React-Redux</h1>
       <div className="cart-wrapper">
         <div className="img-wrapper item">
           <img
